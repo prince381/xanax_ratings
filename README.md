@@ -19,5 +19,24 @@ Xanax works by boosting the effects of a natural chemical made in the brain call
 * Xanax works by increasing the amount of the neurotransmitter GABA in the brain to promote calmness and a relaxed feeling.
 * When taken correctly, Xanax is a safe and effective medication.
 
+## Project Description and Workflow
+In this project, I will demonstrate a real world example of text classification using machine learning. The goal of this project is to
+train a text classification machine learning model in python capable of predicting the rating of the Xanax drug based on the user
+comment/review. The data that was used in this project was scraped from [drugs.com](https://www.drugs.com/comments/alprazolam/xanax.html) and contains the date the user made the comment, the comment itself, and the
+rating provided by the user. The data has a shape of 798 rows and 4 columns.I will use python’s Scikit-learn library for machine
+learning to train the text classification model and below are the following steps I will go through in the jupyter notebook to train the
+text classification model:
+* Importing the libraries needed.
+* Importing the data set
+* Text preprocessing
+* Converting text to numbers
+* Splitting the data into train and test sets
+* Training the text classification model and predicting the ratings.
+* Evaluating the  model
+* Saving and loading the model
+
+## Project Results
+
+
 ### Project completed by: Prince Owusu
 [Email](powusu381@gmail.com) || [linkedIn](https://www.linkedin.com/in/prince-owusu-356914198?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2NYoXqMHQKOMp0yWSME5mQ%3D%3D) || [Twitter](https://twitter.com/iam_kwekhu)
