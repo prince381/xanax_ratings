@@ -28,8 +28,8 @@ learning to train the text classification model and below are the following step
 text classification model:
 * Importing the libraries needed.
 * Importing the data set
-* Text preprocessing
-* Converting text to numbers
+* Data preprocessing
+* Exploratory Data Analysis
 * Splitting the data into train and test sets
 * Training the text classification model and predicting the ratings.
 * Evaluating the  model
