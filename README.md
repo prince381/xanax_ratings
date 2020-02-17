@@ -13,7 +13,7 @@ Xanax (alprazolam) is an anti-anxiety medication in the benzodiazepine family, t
 approved by the FDA in October 1981. Benzodiazepines act on the brain and central nervous system to produce a calming effect.
 Xanax slows down the movement of brain chemicals that may have become unbalanced, resulting in a reduction in nervous tension and anxiety.
 Xanax works by boosting the effects of a natural chemical made in the brain called gamma-aminobutyric acid (GABA).
-### fast fact on Xanax
+### fast facts on Xanax
 * Xanax (alprazolam) is the single most prescribed psychiatric medication in the U.S.
 * Xanax is a member of the benzodiazepine family of drugs and is primarily used to treat anxiety and panic disorders.
 * Xanax works by increasing the amount of the neurotransmitter GABA in the brain to promote calmness and a relaxed feeling.
