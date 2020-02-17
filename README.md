@@ -1,5 +1,5 @@
 # XANAX USER RATINGS PREDICTION
-This [Github](https://github.com/prince381/xanax_ratings) repository contains the files and other resources for my 
+This [Github](https://github.com/prince381/xanax_ratings) repository contains the files and other resources for my data science
 project which entails crawling the web for data on Xanas drug user reviews, and training a machine learning model in python to predict the
 rating of Xanax drug based on the comment/review of the user. All the code associated with this project is written in python programming
 language and contained in two files. One being a jupyter notebook (Xanax_rating_prediction.ipynb) in which the data is analysed and the
